@@ -755,18 +755,6 @@ body.offcanvas {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   border-radius: 8px; }
-  .progress-bar:after {
-    position: absolute;
-    top: -2px;
-    right: 0;
-    width: 10px;
-    height: 10px;
-    content: '';
-    background: #2c98f0;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    border-radius: 50%; }
   .progress-bar span {
     position: absolute;
     top: -22px;
