@@ -18,6 +18,8 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
+  background-color: lightgray;
+  padding: 5px;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -1517,12 +1519,14 @@
 }
 .icon-facebook2:before {
   content: "\eac0";
+  color:#2c98f0;
 }
 .icon-facebook22:before {
   content: "\eac1";
 }
 .icon-instagram:before {
   content: "\eac2";
+  color: #2c98f0;
 }
 .icon-whatsapp:before {
   content: "\eac3";
@@ -1535,6 +1539,7 @@
 }
 .icon-twitter2:before {
   content: "\eac6";
+  color: #2c98f0;
 }
 .icon-vine:before {
   content: "\eac7";
@@ -1613,6 +1618,7 @@
 }
 .icon-github:before {
   content: "\eae0";
+  color: #2c98f0;
 }
 .icon-npm:before {
   content: "\eae1";
@@ -1688,6 +1694,7 @@
 }
 .icon-linkedin2:before {
   content: "\eaf9";
+  color: #2c98f0;
 }
 .icon-linkedin22:before {
   content: "\eafa";
